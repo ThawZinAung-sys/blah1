@@ -1,2 +1,2 @@
 # blah1
-EVE-NG icons rectangle PNG
+EVE-NG Red rectangle symbols PNG
